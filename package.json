@@ -1,13 +1,13 @@
 {
-  "name": "themes-starter-fse",
-  "version": "1.0.0",
+  "name": "hakusha",
+  "version": "0.0.1",
   "license": "GPL-2.0",
-  "description": "A WordPress Starter Theme built for Full Site Editing.",
-  "homepage": "https://them.es",
-  "author": "them.es",
+  "description": "A WordPress Theme.",
+  "homepage": "https://indigo-design.org",
+  "author": "Takeshi Igarashi",
   "repository": {
     "type": "git",
-    "url": "git://github.com/them-es/themes-starter-fse.git"
+    "url": "git@github.com:takeshi81/hakusha.git"
   },
   "scripts": {
     "watch": "webpack"
